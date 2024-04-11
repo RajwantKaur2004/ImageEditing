@@ -21,4 +21,7 @@ First i added First PhotoEditorView in our xml layout. Then, set the image by ge
 We can apply inbuild filter to the source images using
 mPhotoEditor.setFilterEffect PhotoFilter.BRIGHTNESS and text with inputText and colorCode like this
 mPhotoEditor.addText inputText, colorCode. Then i have also added undo and redo buttons.
+
+I have added Camera access and some navigations to the app to make it more appealing.
+The app has a new Icon now.
 So overall this app is easy to use and simple.
